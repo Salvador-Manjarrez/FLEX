@@ -11,7 +11,7 @@ body {
     background:#fff;
 }
 img {
-    max-width:100%; 
+    max-width:100%;
 }
 
 a {
@@ -65,7 +65,6 @@ padding:0px 30px;
 }
 
 .navbar a:hover {
-    color:lightblue;
     border-bottom:2px solid white;
 }
 
@@ -117,6 +116,8 @@ padding:0px 30px;
     transform:translateY(-20px);
     transition:.3s;
     cursor:pointer;
+    background-color:#fff;
+    color:#0a51cc;
 }
 
 .box i {
